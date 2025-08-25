@@ -1,0 +1,18 @@
+[general]
+name=CoordWizard
+qgisMinimumVersion=3.0
+qgisMaximumVersion=5.0
+description=All-in-one coordinate conversion, reprojection, and export tool with live preview, batch processing, and map-click input.
+about=CoordWizard v2 converts between CRS (WGS84, UTM, NAD83, EPSG, custom) with precision control; handles vector & raster; batch processes layers; offers live preview, map-based input, history, and export to CSV/GeoJSON/shapefile.
+version=2.0.0
+author=Seyi Ajibare
+email=oseyiajibare@gmail.com
+tracker=https://github.com/oseyiajibare/CoordWizard/issues
+repository=https://github.com/oseyiajibare/CoordWizard
+homepage=https://github.com/oseyiajibare/CoordWizard
+icon=icon.png
+category=Vector
+tags=coordinates,CRS,projection,UTM,WGS84,NAD83,MGRS,conversion,processing,raster,vector,batch,export,history
+experimental=False
+deprecated=False
+server=True
